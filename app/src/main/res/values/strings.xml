@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soccer Score Keeper</string>
+    <string name="home">home</string>
+    <string name="zero">0</string>
+    <string name="goal">goal</string>
+    <string name="foul">foul</string>
+    <string name="yellow_card">card</string>
+    <string name="guest">guest</string>
+    <string name="red_card">card</string>
+    <string name="reset">reset</string>
+
+</resources>
